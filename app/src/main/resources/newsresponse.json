@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Associated Press",
+      "title": "Russian ship fires warning shots at UK warship in Black Sea - Fox News",
+      "description": "A Russian warship fired warning shots Wednesday to force a British destroyer from Russia’s waters near Crimea in the Black Sea.",
+      "url": "https://www.foxnews.com/world/russian-ship-fires-shots-uk-warship-black-sea",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/Russia-Troop-Withdrawal-Ukraine-Border-AP.jpg",
+      "publishedAt": "2021-06-23T11:49:15Z",
+      "content": "A Russian warship fired warning shots Wednesday to force a British destroyer from Russias waters near Crimea in the Black Sea, the Russian Defense Ministry said.\r\nUS STUDENT, EX-MARINE FOUND DEAD IN … [+681 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Peter Schacknow",
+      "title": "Stocks making the biggest moves in the premarket: GlaxoSmithKline, MicroStrategy, Shake Shack & more - CNBC",
+      "description": "The stocks making the biggest moves in premarket trading include GlaxoSmithKline, MicroStrategy, Shake Shack, and more.",
+      "url": "https://www.cnbc.com/2021/06/23/stocks-making-the-biggest-moves-in-the-premarket-glaxosmithkline-microstrategy-shake-shack-more.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/105663801-1546882064243emma.jpg?v=1624448595",
+      "publishedAt": "2021-06-23T11:43:30Z",
+      "content": "Take a look at some of the biggest movers in the premarket:\r\nGlaxoSmithKline (GSK) The drugmaker's stock rose 3.5% in the premarket after it detailed plans to spin out its consumer health-care busine… [+2504 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Will Feuer",
+      "title": "Morgan Stanley to block unvaccinated staff and clients from NY offices - New York Post ",
+      "description": "After July 12, those who don’t attest to being fully vaccinated will lose building access.",
+      "url": "https://nypost.com/2021/06/23/morgan-stanley-to-block-unvaccinated-staff-from-ny-offices/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/06/morgan-stanley-37.jpg?quality=90&strip=all&w=1200",
+      "publishedAt": "2021-06-23T11:31:00Z",
+      "content": "Morgan Stanley will bar employees and clients who have not been fully vaccinated against COVID-19 from entering the banks New York offices, according to an internal memo.\r\nStarting July 12 all employ… [+2752 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Page Six"
+      },
+      "author": "Francesca Bacardi",
+      "title": "Stephen Amell removed from flight after alleged altercation with wife - Page Six",
+      "description": "He was supposed to fly from Austin to LA.",
+      "url": "https://pagesix.com/2021/06/23/stephen-amell-removed-from-flight-after-alleged-altercation-with-wife/",
+      "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2021/06/stephen-amell-cassandra.jpg?quality=90&strip=all&w=1200",
+      "publishedAt": "2021-06-23T11:29:00Z",
+      "content": "“Arrow” star Stephen Amell was forcibly removed from his flight after allegedly getting into an altercation with his wife, Page Six is told.\r\nAmell, who was flying Delta from Austin to Los Angeles af… [+1466 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": null,
+      "title": "Witnesses say airstrike in Ethiopia's Tigray kills dozens - Associated Press",
+      "description": "NAIROBI, Kenya (AP) — An airstrike hit a busy market in Ethiopia’s northern Tigray village of Togoga on Tuesday, according to health workers who said soldiers blocked medical teams from traveling to the scene.",
+      "url": "https://apnews.com/article/ap-top-news-kenya-africa-ethiopia-424851651a0e02c21df71c86d9b70ec2",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/394e80981445443b926019318f969a69/1012.jpeg",
+      "publishedAt": "2021-06-23T11:27:51Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Ryan Gaydos",
+      "title": "Nationals' Max Scherzer unhappy over substance checks: 'I'll take off all my clothes' - Fox News",
+      "description": "Washington Nationals pitcher Max Scherzer returned to the mound to face the Philadelphia Phillies on Tuesday night after a stint on the injury list and didn’t appear to be pleased with baseball’s constant grip-enhancing substance checks.",
+      "url": "https://www.foxnews.com/sports/nationals-max-scherzer-unhappy-substance-checks",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Max-Scherzer.jpg",
+      "publishedAt": "2021-06-23T11:17:45Z",
+      "content": "Washington Nationals pitcher Max Scherzer returned to the mound to face the Philadelphia Phillies on Tuesday night after a stint on the injury list and didnt appear to be pleased with baseballs const… [+2754 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "The Associated Press",
+      "title": "Adams takes fragile lead in New York City Democratic mayoral primary, Sliwa wins GOP primary - CNBC",
+      "description": "rooklyn Borough President Eric Adams appeared to take a fragile lead Tuesday in New York City's Democratic mayoral primary.",
+      "url": "https://www.cnbc.com/2021/06/23/adams-takes-fragile-lead-in-new-york-city-democratic-mayoral-primary-sliwa-wins-gop-primary.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106897633-16237958132021-06-15t213500z_147645059_rc221o9incpr_rtrmadp_0_usa-election-new-york.jpeg?v=1623795868",
+      "publishedAt": "2021-06-23T11:07:39Z",
+      "content": "Brooklyn Borough President Eric Adams appeared to take a fragile lead Tuesday in New York City's Democratic mayoral primary, but it could be weeks before it becomes clear who is actually on top in th… [+5939 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Mitchell Clark",
+      "title": "What we know about China’s cryptocurrency crackdown - The Verge",
+      "description": "Last month, the Chinese government started indicating that it was going to start enforcing laws that prohibited cryptocurrency trading and mining. Since then, the situation for crypto in the country has gotten more difficult.",
+      "url": "https://www.theverge.com/2021/6/23/22544367/china-crypto-crackdown-bitcoin-mining-sichuan-ban-hydro-cryptocurrency-trading",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/Sj_8PVWggITIsmi0QWkzxdplYBQ=/0x215:3000x1786/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/8937279/acastro_170726_1777_0007_v3.jpg",
+      "publishedAt": "2021-06-23T11:03:00Z",
+      "content": "Miners in the country are starting to get worried\r\nIllustration by Alex Castro / The Verge\r\nThis week, Bitcoin dipped below $30,000 for the first time since January. Thats half what it was worth just… [+4602 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Nate Day",
+      "title": "A timeline of Britney Spears' conservatorship - Fox News",
+      "description": "A look back at the conservatorship that Britney Spears has been entangled in since 2008.",
+      "url": "https://www.foxnews.com/entertainment/britney-spears-conservatorship-timeline",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/GettyImages-Britney-Spears.jpg",
+      "publishedAt": "2021-06-23T10:24:05Z",
+      "content": "Britney Spears is set to make a rare though remote appearance in a hearing for her conservatorship case. \r\nThe conservatorship has been a hot-button topic for some time now, with interest in it renew… [+6764 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Times"
+      },
+      "author": "Apoorva Mandavilli",
+      "title": "Covid-19 News: Live Updates - The New York Times",
+      "description": "A panel of experts will meet to address reports of relatively minor cardiac issues in a small number of those who received Pfizer-BioNTech or Moderna shots.",
+      "url": "https://www.nytimes.com/live/2021/06/23/world/covid-vaccine-coronavirus-mask",
+      "urlToImage": "https://static01.nyt.com/images/2021/06/23/world/23virus-briefing-heart/merlin_187953912_b6a2781b-31a1-489a-8889-b2dcf20d8b1c-facebookJumbo.jpg",
+      "publishedAt": "2021-06-23T10:07:10Z",
+      "content": "LiveUpdated June 23, 2021, 6:44 a.m. ET\r\nJune 23, 2021, 6:44 a.m. ET\r\nA panel of experts will meet to address reports of relatively minor cardiac issues in a small number of those who received Pfizer… [+13610 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "mlive.com"
+      },
+      "author": "Ansar Khan | akhan1@mlive.com",
+      "title": "Cade Cunningham clear-cut call for Pistons in NBA mock drafts - MLive.com",
+      "description": "Analysts say this 6-8 point guard from Oklahoma State is a future star.",
+      "url": "https://www.mlive.com/pistons/2021/06/cade-cunningham-clear-cut-call-for-pistons-in-nba-mock-drafts.html",
+      "urlToImage": "https://www.mlive.com/resizer/Bv-E4YT5nBwj9CHw9Pk7GZlg0uo=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/FDCJ7LRBEBABFJNKTUJUY22YCA.jpg",
+      "publishedAt": "2021-06-23T10:05:43Z",
+      "content": "Shortly after learning his team won the NBA Draft Lottery Tuesday, Detroit Pistons general manager Troy Weaver said there are as many as four or five players he could select with the No. 1 pick.\r\nThe… [+4706 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Lois Beckett",
+      "title": "US Capitol attack: first defendant in 6 January riot expected to be sentenced - The Guardian",
+      "description": "Anna Morgan-Lloyd’s sentence could indicate what kind of punishments judges will impose on those involved in breach",
+      "url": "https://amp.theguardian.com/us-news/2021/jun/23/us-capitol-riot-sentencing-anna-morgan-lloyd",
+      "urlToImage": null,
+      "publishedAt": "2021-06-23T10:02:00Z",
+      "content": "US Capitol breachAnna Morgan-Lloyds sentence could indicate what kind of punishments judges will impose on those involved in breach\r\nThree years of probation, 40 hours of community service and $500.\r… [+4375 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Deidre McPhillips, CNN",
+      "title": "As Covid-19 deaths hit record lows, those dying are younger and more disproportionately Black than before - CNN ",
+      "description": "Black people and younger people are making up a bigger share of coronavirus deaths.",
+      "url": "https://www.cnn.com/2021/06/23/health/covid-deaths-shifting-younger-more-disparities/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210622122510-coronavirus-deaths-memorial-brooklyn-0528-super-tease.jpg",
+      "publishedAt": "2021-06-23T10:02:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Monica Chin",
+      "title": "Lenovo’s new ThinkPad X1 Extreme Gen 4 launches in August for $2,149 - The Verge",
+      "description": "ThinkPad fans who want to do creative work on the go can now check out Lenovo’s new ThinkPad X1 Extreme Gen 4. The laptop will launch in August starting at $2,149.",
+      "url": "https://www.theverge.com/2021/6/23/22545580/lenovo-thinkpad-x1-extreme-gen-4-l13-yoga-announcement-mwc",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/9_coXBy7PNO0ZqAVJxKHoNpD1DM=/0x477:2000x1524/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22674784/16_Thinkpad_X1_Extreme_Gen4_Hero_Front_Facing.png",
+      "publishedAt": "2021-06-23T10:00:00Z",
+      "content": "Plus, two new additions to the L-series\r\nHeres the ThinkPad X1 Extreme Gen 4.\r\nLenovo\r\nThinkPad power users have a new option in Lenovos ThinkPad X1 Extreme Gen 4. The new 16-inch workstation will be… [+1091 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Yen Nee Lee",
+      "title": "Hong Kong pro-democracy newspaper Apple Daily to shut down operations by midnight - CNBC",
+      "description": "Apple Daily has come under increasing pressure since its owner, Beijing critic Jimmy Lai, was arrested under the national security law.",
+      "url": "https://www.cnbc.com/2021/06/23/hong-kong-pro-democracy-newspaper-apple-daily-to-shut-down-operations.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106901248-1624435888050-gettyimages-1233589260-AFP_9CU2V2.jpeg?v=1624435469",
+      "publishedAt": "2021-06-23T09:52:45Z",
+      "content": "Embattled Hong Kong pro-democracy newspaper Apple Daily said Wednesday it will cease operations from midnight just hours after police arrested another employee for allegedly breaching the controversi… [+2154 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Kif Leswing",
+      "title": "Apple warns of the perils of installing unapproved apps ahead of antitrust debate in Congress - CNBC",
+      "description": "Apple also warned that allowing sideloading could put children at risk by allowing apps to disregard parental controls or by collecting sensitive user data.",
+      "url": "https://www.cnbc.com/2021/06/23/apple-warns-of-perils-installing-rogue-apps-ahead-of-antitrust-debate.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106124067-1568213128759tim.jpg?v=1595336349",
+      "publishedAt": "2021-06-23T09:30:01Z",
+      "content": "Apple argued Wednesday that allowing iPhone users to install software from outside its App Store a practice called sideloading would open up its customers to ransomware, pirated software and apps tha… [+4197 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SciTechDaily"
+      },
+      "author": null,
+      "title": "Don't Miss the Strawberry Moon – The Last Supermoon of 2021 - SciTechDaily",
+      "description": "The Next Full Moon is the Strawberry, Mead, Honey, Rose, Flower, Hot, Hoe, or Planting Moon, Vat Purnima, Poson Poya, the LRO Moon, and a marginal Supermoon. The next full Moon will be on Thursday afternoon, June 24, 2021, appearing opposite the Sun in Earth-…",
+      "url": "https://scitechdaily.com/dont-miss-the-strawberry-moon-the-last-supermoon-of-2021/",
+      "urlToImage": "https://scitechdaily.com/images/Moon-Apollo-50th-Anniversary.jpg",
+      "publishedAt": "2021-06-23T09:21:47Z",
+      "content": "The Moon rises as a Metrorail car crosses the Potomac River in Washington D.C. on July 16, 2019 50 years to the day after astronauts Neil Armstrong, Michael Collins, and Buzz Aldrin launched on Apoll… [+6325 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Sam Schechner",
+      "title": "Amazon and Other Tech Giants Race to Buy Up Renewable Energy - The Wall Street Journal",
+      "description": "As technology companies reshape the market, they face pressure to demonstrate that their investments are reducing overall emissions",
+      "url": "https://www.wsj.com/articles/amazon-and-other-tech-giants-race-to-buy-up-renewable-energy-11624438894",
+      "urlToImage": "https://images.wsj.net/im-357984/social",
+      "publishedAt": "2021-06-23T09:01:00Z",
+      "content": "The race to secure electricity deals for power-hungry data centers has tech companies reshaping the renewable-energy market and grappling with a new challenge: how to ensure their investments actuall… [+7700 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Lauren Egan",
+      "title": "White House to announce strategy to tackle gun violence amid sharp increase in crime - NBC News",
+      "description": "President Joe Biden is set to announce his strategy to tackle gun violence amid sharp increase in crime Wednesday afternoon at the White House.",
+      "url": "https://www.nbcnews.com/politics/white-house/white-house-announce-strategy-tackle-gun-violence-amid-sharp-increase-n1272066",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2021_25/3485752/210622-chicago-gun-violence-ew-705p.jpg",
+      "publishedAt": "2021-06-23T09:00:00Z",
+      "content": "WASHINGTON President Joe Biden on Wednesday will lay out his plan for addressing the surge in gun violence that has impacted cities around the country in the wake of the coronavirus pandemic.\r\nThe pr… [+3956 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ESPN"
+      },
+      "author": "Royce Young",
+      "title": "NBA playoffs 2021 - Why Deandre Ayton was the right No. 1 pick for the Phoenix Suns - ESPN",
+      "description": "On the night of the draft lottery, the former No. 1 pick showed why the Suns made the right call -- for them -- in 2018.",
+      "url": "https://www.espn.com/nba/story/_/id/31689747/nba-playoffs-2021-why-deandre-ayton-was-right-no-1-pick-phoenix-suns",
+      "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F0623%2Fr871125_1296x729_16%2D9.jpg",
+      "publishedAt": "2021-06-23T06:40:07Z",
+      "content": "With the play drawn up and ready to go, right before they broke their huddle, Phoenix Suns coach Monty Williams' last message to his team was simple.\r\n\"Execute it,\" he said. \"If he throws it, DA, you… [+6343 chars]"
+    }
+  ]
+}
